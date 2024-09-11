@@ -3,4 +3,4 @@ services:
     image: justilluminate/chromecast-dashboard
     ports:
       - "2525:80"
-    container_name: chromecast_salontracker
+    container_name: chromecast_dashboard
